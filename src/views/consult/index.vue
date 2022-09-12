@@ -1,7 +1,5 @@
 <template>
-  <div class="app">
-    <router-view></router-view>
-  </div>
+  <div class="consult">咨询</div>
 </template>
 
 <script>
